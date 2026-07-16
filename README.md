@@ -5,4 +5,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0941-valid-mountain-array](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0941-valid-mountain-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Math
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Sorting
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
