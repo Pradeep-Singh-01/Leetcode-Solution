@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0941-valid-mountain-array](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0941-valid-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/1095-find-in-mountain-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/1095-find-in-mountain-array) |
 ## Interactive
 |  |
