@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
 | [0941-valid-mountain-array](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0941-valid-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0338-counting-bits) |
+| [0746-min-cost-climbing-stairs](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
