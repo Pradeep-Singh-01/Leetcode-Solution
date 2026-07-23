@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0062-unique-paths) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0322-coin-change) |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0322-coin-change) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
