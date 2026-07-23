@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0338-counting-bits) |
+| [0516-longest-palindromic-subsequence](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/1143-longest-common-subsequence) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
