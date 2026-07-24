@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0518-coin-change-ii](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Pradeep-Singh-01/Leetcode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
 ## Stack
 |  |
